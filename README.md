@@ -1,6 +1,6 @@
 # Cloud-Native-Catalog-Extraction-Pipeline
 
-live demo : []{https://pdf-extractor-frontend-416866646707.us-central1.run.app/}
+live demo : https://pdf-extractor-frontend-416866646707.us-central1.run.app/
 
 
 This tool is a secure, scalable, cloud-native web application designed to automate complex data extraction and reporting tasks. It provides a centralized internal platform for processing large product catalogs and digital assets, transforming them into structured, actionable data in both Excel and Google Sheets formats.
